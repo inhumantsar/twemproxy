@@ -4,7 +4,7 @@ Version: 0.4.0
 Release: 1
 
 URL: https://github.com/twitter/twemproxy/
-Source0: %{name}-%{version}.tar.gz
+Source0: v%{version}.tar.gz
 License: Apache License 2.0
 Group: System Environment/Libraries
 Packager: Tom Parrott <tomp@tomp.co.uk>
