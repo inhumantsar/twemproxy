@@ -1,6 +1,6 @@
 Summary: Twitter's nutcracker redis and memcached proxy
 Name: nutcracker
-Version: 0.3.0
+Version: 0.4.0
 Release: 1
 
 URL: https://github.com/twitter/twemproxy/
@@ -65,6 +65,8 @@ fi
 %config(noreplace)%{_sysconfdir}/%{name}/%{name}.yml
 
 %changelog
+* Mon Dec 8 2014 Shaun Martin <shaun@samsite.ca>
+- twemproxy: v0.4.0 released
 * Fri Dec 20 2013  Manju Rajashekhar  <manj@cs.stanford.edu>
 - twemproxy: version 0.3.0 release
 - SRANDMEMBER support for the optional count argument (mkhq)
