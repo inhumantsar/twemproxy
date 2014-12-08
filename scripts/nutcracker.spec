@@ -67,6 +67,7 @@ fi
 %changelog
 * Mon Dec 8 2014 Shaun Martin <shaun@samsite.ca>
 - twemproxy: v0.4.0 released
+
 * Fri Dec 20 2013  Manju Rajashekhar  <manj@cs.stanford.edu>
 - twemproxy: version 0.3.0 release
 - SRANDMEMBER support for the optional count argument (mkhq)
